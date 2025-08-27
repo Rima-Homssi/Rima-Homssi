@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rima-Homssi
 - 🌱 I’m currently learning Front End 
-- 📫 How to reach me e-mail: homssir@yahoo.com
+- 📫 How to reach me: e-mail: rimahomssi@gmail.com
 
 <!---
 Rima-Homssi/Rima-Homssi is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
